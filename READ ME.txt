@@ -1,0 +1,18 @@
+Team Member Names :-
+
+1 >--  Malav Patel
+2 >--  Jeel Gandhi
+3 >--  Sannepal Singh
+
+Work done by Team Member :-
+
+>-- The project contains Player Vs Computer, Player Vs Player.
+>-- Gui was designed by Malav Patel.
+>-- Player Vs Computer Side Coding and their functionalities where done by Malav Patel.
+>-- Player Vs Player Side was Done by Jeel Gandhi.
+>-- Instruction Type pop to Guide User was Idea of Jeel Gandhi.
+>-- Debugging of code and some functionalities in Two Player game was done by Sannepal Singh.
+>-- When you Player Vs Player Two windows are overlayed on each other so you have to move the top window to see the other window.
+
+
+
